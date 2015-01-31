@@ -9,3 +9,21 @@ GPass is released under the GNU GPL2 licence.
 This project used to be hosted at http://projects.netlab.jp/gpass/
 
 Since the site is down, the source code is available here.
+
+
+Current developer (likely not true anymore)
+=================
+
+* Kouji TAKAO <kouji@netlab.jp>
+
+Original developer
+==================
+
+* Morten Fjord-Larsen <fjord@users.sourceforge.net>
+
+Thanks
+======
+
+* Marc Deslauriers <marcdeslauriers@videotron.ca>
+
+  Created spec file and a patch to get the right icon in the desktop file.
