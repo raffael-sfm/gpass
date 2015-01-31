@@ -10,6 +10,7 @@ This project used to be hosted at http://projects.netlab.jp/gpass/
 
 Since the site is down, the source code is available here.
 
+https://github.com/raffael-sfm/gpass/releases/download/0.5.1/gpass-0.5.1.tar.gz
 
 Current developer (likely not true anymore)
 =================
